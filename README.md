@@ -1,4 +1,4 @@
-# Chess player algorythm(Minimax alpha-beta pruning) 
+# Chess player algorithm(Minimax alpha-beta pruning) 
 
 Artificial chess player connected to a library implementing chess game.
 Files implementing the artificial chess player:

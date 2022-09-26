@@ -71,13 +71,3 @@ class agent
         void SaveMove(const std::vector<char> & board_before,const std::vector<char> & board_after);
     
 };
-
-// 7 # # # # # # # #
-// 6 # 3 # # 3 # # #
-// 5 # # 2 # 2 # # #
-// 4 ? # # 1 1 # # #
-// 3 # 3 2 1 Q 1 2 3
-// 2 # # # 1 1 1 # #
-// 1 # # 2 # 2 # 2 #
-// 0 ? 3 # # 3 # # 3
-//   0 1 2 3 4 5 6 7
